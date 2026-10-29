@@ -33,7 +33,7 @@ central engineering problem rather than an afterthought.
 Requires Node 22.18+, pnpm 10+, and Docker.
 
 ```bash
-git clone https://github.com/aaron-seq/SplitBills.git
+https://github.com/Bappaditya-kuilya/SplitBills
 cd SplitBills
 pnpm install
 cp .env.example .env          # works as-is for local dev
